@@ -1,1 +1,2 @@
-https://github.com/webdevil80/webdevil80/blob/main/Vetrivel.png
+<!-- https://github.com/webdevil80/webdevil80/blob/main/Vetrivel.png -->
+![plot](./plot.png)
